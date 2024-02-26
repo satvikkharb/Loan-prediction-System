@@ -1,0 +1,1 @@
+Utilizing Logistic Regression, I developed a predictive model to determine loan eligibility post thorough univariate and bivariate exploratory data analysis. Mitigating imbalanced data and outliers, the project underscores my adeptness in employing statistical techniques and machine learning for practical problem-solving, backed by meticulous data preprocessing.
